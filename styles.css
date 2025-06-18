@@ -1208,4 +1208,8 @@ body.dark-mode .languages-list .language-item {
 
 .languages-list .language-item {
     background: #f6fafd !important;
+}
+
+body.dark-mode .nav-links a:hover {
+    color: #e74c3c;
 } 
